@@ -2,17 +2,18 @@
 [![CI Status][ci-badge]][ci-link]
 [![CD Status][cd-badge]][cd-link]
 [![PyPI version][pypi-version]][pypi-link]
-<!-- [![Conda-Forge][conda-badge]][conda-link] -->
+[![Conda-Forge][conda-badge]][conda-link]
 
-Sub-package to hold the fonts and some data to make the examples of [plothist](https://github.com/cyrraz/plothist).
+Sub-package to hold the fonts and some data to make the examples of [plothist](https://github.com/8-hat/plothist).
 
-[ci-badge]:     https://github.com/0ctagon/plothist_utils/actions/workflows/ci.yaml/badge.svg
-[ci-link]:      https://github.com/0ctagon/plothist_utils/actions/workflows/ci.yaml?query=branch%3Amain
-[cd-badge]:     https://github.com/0ctagon/plothist_utils/actions/workflows/cd.yaml/badge.svg
-[cd-link]:      https://github.com/0ctagon/plothist_utils/actions/workflows/cd.yaml?query=branch%3Amain
+[ci-badge]:     https://github.com/8-hat/plothist_utils/actions/workflows/ci.yaml/badge.svg
+[ci-link]:      https://github.com/8-hat/plothist_utils/actions/workflows/ci.yaml?query=branch%3Amain
+[cd-badge]:     https://github.com/8-hat/plothist_utils/actions/workflows/cd.yaml/badge.svg
+[cd-link]:      https://github.com/8-hat/plothist_utils/actions/workflows/cd.yaml?query=branch%3Amain
 [pypi-link]:    https://pypi.org/project/plothist-utils/
 [pypi-version]: https://badge.fury.io/py/plothist-utils.svg
-
+[conda-badge]:  https://img.shields.io/conda/vn/conda-forge/plothist_utils?style=platic
+[conda-link]:   https://anaconda.org/conda-forge/plothist_utils
 
 ## Fonts
 Fonts distributed in this package have open licenses and can be redistributed. While it would be preferable to download the files from their original repositories, there is no convenient way to do that due to varying repo structures. The following fonts are included:
