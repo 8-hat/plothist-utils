@@ -10,16 +10,16 @@ authors = [
     {name = "Tristan Fillinger", email = "tristan.github@gmail.com"},
     ]
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "numpy>=1.14.5",
 ]
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/0ctagon/plothist_utils"
+Homepage = "https://github.com/8-hat/plothist_utils"
 Documentation = "https://plothist.readthedocs.io/"
-"Bug Tracker" = "https://github.com/0ctagon/plothist_utils/issues"
+"Bug Tracker" = "https://github.com/8-hat/plothist_utils/issues"
 
 [tool.codespell]
 skip = '*.pdf,./test/*,*.svg,./docs/html/*'
@@ -28,12 +28,12 @@ write-changes = true
 
 [dependency-groups]
 dev = [
-    "pre-commit>=4.1.0",
+    "prek>=0.1.1",
 ]
 test = [
-    "pytest>=8.3.5",
-    "pytest-cov>=4.1.0",
-    "matplotlib>=3.0.0",
+    "pytest>=9",
+    "pytest-cov>=7",
+    "matplotlib>=3.10.8",
 ]
 
 
