@@ -3,7 +3,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "plothist_utils"
+name = "plothist-utils"
 description = "Utilities for the plothist package"
 authors = [
     {name = "Cyrille Praz", email = "cyrraz.code@protonmail.com"},
