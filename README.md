@@ -13,8 +13,8 @@ Sub-package to hold the fonts and some data to make the examples of [plothist](h
 [cd-link]: https://github.com/8-hat/plothist-utils/actions/workflows/cd.yaml?query=branch%3Amain
 [pypi-link]: https://pypi.org/project/plothist-utils/
 [pypi-version]: https://badge.fury.io/py/plothist-utils.svg
-[conda-badge]: https://img.shields.io/conda/vn/conda-forge/plothist-utils?style=platic
-[conda-link]: https://anaconda.org/conda-forge/plothist-utils
+[conda-badge]: https://img.shields.io/conda/vn/conda-forge/plothist_utils?style=platic
+[conda-link]: https://anaconda.org/conda-forge/plothist_utils
 
 ## Fonts
 
