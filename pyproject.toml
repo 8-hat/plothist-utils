@@ -17,9 +17,9 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/8-hat/plothist_utils"
+Homepage = "https://github.com/8-hat/plothist-utils"
 Documentation = "https://plothist.readthedocs.io/"
-"Bug Tracker" = "https://github.com/8-hat/plothist_utils/issues"
+"Bug Tracker" = "https://github.com/8-hat/plothist-utils/issues"
 
 [tool.codespell]
 skip = '*.pdf,./test/*,*.svg,./docs/html/*'
